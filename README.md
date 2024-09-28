@@ -1,13 +1,13 @@
-## For run the frontend assignment copy the commands
-### 1 first step
+## How to Run the Frontend Assignment
+### Step 1: Clone the repository
 #### git clone https://github.com/Muzaffar656/Dashboard_App.git
-### 2 second step
+### Step 2: Navigate to the project directory
 #### cd Dashboard_App
-### 3 third step
+### Step 3: Enter the frontend folder
 #### cd frontend
-### 4 fourth step
+### Step 4: Navigate to the my-app folder
 #### cd my-app 
-### 5 fifth step 
+### Step 5: Install project dependencies
 #### npm i
-### 6 six step
+### tep 6: Start the development server
 #### npm start
