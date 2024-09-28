@@ -26,17 +26,17 @@
 #### npm start
 
 ## Backend api url
-### Get All employes 
+### Get All employes GET
 #### localhost:4000/employes
-### Create employes
+### Create employes CREATE
 #### localhost:4000/createEmploye
 ##### Body (JSON Example):
 ##### {"name":"vivek","email":"example@gmail.com","number":"9179638187","city":"indore" }
-### Update employes
+### Update employes PUT
 #### localhost:4000/updateEmploye
 ##### Body (JSON Example):
 ##### {"name":"vivek","email":"example@gmail.com","number":"9179638187","city":"indore","newemail":"anil@gmail.com" }
-### Delete employes
-#### localhost:4000/delete
+### Delete employes DELETE
+#### localhost:4000/delete 
 ##### Body (JSON Example):
 ##### {"email":"example@gmail.com",}
