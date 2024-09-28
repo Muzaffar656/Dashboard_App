@@ -33,5 +33,7 @@
 ##### {"name":"vivek","email":"vivek@gmail.com","number":"9179638187","city":"indore" }
 ### Update employes
 #### localhost:4000/updateEmploye
+##### {"name":"vivek","email":"vivek@gmail.com","number":"9179638187","city":"indore","newemail":"anil@gmail.com" }
 ### Delete employes
 #### localhost:4000/delete
+##### {"email":"example@gmail.com",}
