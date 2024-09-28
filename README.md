@@ -11,3 +11,16 @@
 #### npm i
 ### tep 6: Start the development server
 #### npm start
+
+
+## How to Run the Backend Assignment
+### Step 1: Clone the repository
+#### git clone https://github.com/Muzaffar656/Dashboard_App.git
+### Step 2: Navigate to the project directory
+#### cd Dashboard_App
+### Step 3: Enter the backend folder
+#### cd backend
+### Step 5: Install project dependencies
+#### npm i
+### tep 6: Start the development server
+#### npm start
