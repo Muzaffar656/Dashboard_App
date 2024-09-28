@@ -1,2 +1,3 @@
 ## For run the frontend assignment copy the commands
-### first step
+### 1 first step
+## git clone 
