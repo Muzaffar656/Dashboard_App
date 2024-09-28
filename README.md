@@ -31,11 +31,11 @@
 ### Create employes
 #### localhost:4000/createEmploye
 ##### Body (JSON Example):
-##### {"name":"vivek","email":"vivek@gmail.com","number":"9179638187","city":"indore" }
+##### {"name":"vivek","email":"example@gmail.com","number":"9179638187","city":"indore" }
 ### Update employes
 #### localhost:4000/updateEmploye
 ##### Body (JSON Example):
-##### {"name":"vivek","email":"vivek@gmail.com","number":"9179638187","city":"indore","newemail":"anil@gmail.com" }
+##### {"name":"vivek","email":"example@gmail.com","number":"9179638187","city":"indore","newemail":"anil@gmail.com" }
 ### Delete employes
 #### localhost:4000/delete
 ##### Body (JSON Example):
