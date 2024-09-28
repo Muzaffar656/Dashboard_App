@@ -24,3 +24,14 @@
 #### npm i
 ### tep 6: Start the development server
 #### npm start
+
+## Backend api url
+### Get All employes 
+#### localhost:4000/employes
+### Create employes
+#### localhost:4000/createEmploye
+##### {"name":"vivek","email":"vivek@gmail.com","number":"9179638187","city":"indore" }
+### Update employes
+#### localhost:4000/updateEmploye
+### Delete employes
+#### localhost:4000/delete
